@@ -1,0 +1,3598 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sabai\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-04 15:24+0200\n"
+"PO-Revision-Date: 2016-04-07 20:48+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: nl_NL\n"
+
+msgid "Add Comment"
+msgstr "Geef een reactie"
+
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+msgid "Disable voting on this comment"
+msgstr "Uitschakelen stemming over deze reactie"
+
+msgid "Disable flagging this comment"
+msgstr "Deze opmerking markeren uitschakelen"
+
+msgid "User"
+msgstr "Gebruiker"
+
+msgid "Submitted at"
+msgstr "Ingediend"
+
+msgid "Spam score"
+msgstr "Spam score"
+
+msgid "Reason"
+msgstr "Reden"
+
+msgid "Offensive"
+msgstr "Aanstootgevend"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Off topic"
+msgstr "Niet van toepassing"
+
+msgid "Comment"
+msgstr "Reactie"
+
+msgid "Votes"
+msgstr "Stemmen"
+
+msgid "Flags"
+msgstr "Markeren"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Edit"
+msgstr "Bewerk"
+
+#, php-format
+msgid "View %s"
+msgstr "Bekijk %s"
+
+#, php-format
+msgid "%d vote"
+msgid_plural "%d votes"
+msgstr[0] "%d Stem"
+msgstr[1] "%d Stemmen"
+
+#, php-format
+msgid "%d flag (spam score: %d)"
+msgid_plural "%d flags (spam score: %d)"
+msgstr[0] "%d Markeer (spam score: %d)"
+msgstr[1] "%d Markeren (spam score: %d)"
+
+#, php-format
+msgid "All (%d)"
+msgstr "Alles  (%d)"
+
+msgid "All"
+msgstr "Alles"
+
+#, php-format
+msgid "Published (%d)"
+msgstr "Gepubliceerd  (%d)"
+
+msgid "Published"
+msgstr "Gepubliceerd "
+
+#, php-format
+msgid "Hidden (%d)"
+msgstr "Verborgen  (%d)"
+
+msgid "Hidden"
+msgstr "Verborgen"
+
+msgid "Bulk Actions"
+msgstr "Bulk Acties"
+
+msgid "Mark as published"
+msgstr "Gemarkeerd als gepubliceerd"
+
+msgid "Mark as hidden"
+msgstr "Gemarkeerd als verborgen"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+msgid "Apply"
+msgstr "Toepassen"
+
+msgid "Spam score threshold"
+msgstr "Spam score drempel"
+
+msgid ""
+"When a comment is flagged, the comment is assigned a \"spam score\". Comments "
+"with spam scores exceeding the threshold value are marked as spam and become "
+"hidden from the public."
+msgstr ""
+"Wanneer een reactie is gemarkeerd , is de reactie van een \" spam score \" "
+"toegewezen . Reacties met spam scores boven de drempelwaarde zijn gemarkeerd "
+"als spam en verborgen geworden van het publiek."
+
+msgid "Auto-delete spam"
+msgstr "Spam automatisch verwijderen"
+
+msgid ""
+"When checked, comments that are marked as spam will be deleted by the system."
+msgstr ""
+"Indien aangevinkt , zal de opmerkingen die zijn gemarkeerd als spam worden "
+"gewist door het systeem."
+
+msgid "Delete spam after:"
+msgstr "Verwijder spam na:"
+
+msgid ""
+"Enter the number of days the system will wait before auto-deleting comments "
+"marked as spam."
+msgstr ""
+"Voer het aantal dagen in dat het systeem zal wachten voordat automatisch "
+"gemarkeerde  spam reacties worden verwijderd."
+
+msgid "days"
+msgstr "Dagen"
+
+msgid "Show login link to guest users"
+msgstr "Toon de login link aan gast gebruikres"
+
+msgid "Voted at"
+msgstr "Gestemd op"
+
+msgid "Score"
+msgstr "Score"
+
+msgid "Delete Comment"
+msgstr "Verwijder reactie"
+
+msgid ""
+"Are you sure you want to <em>permanently</em> delete this comment? This cannot "
+"be undone."
+msgstr ""
+"Weet u zeker dat u de reactie <em>permanent</em> wilt verwijderen? dit kan "
+"niet ongedaan worden gemaakt."
+
+msgid "You have already voted for or flagged this comment"
+msgstr "U heeft al gestemd of de reactie gemarkeerd."
+
+msgid "It is spam"
+msgstr "Dit is spam"
+
+msgid "It contains offensive language or content"
+msgstr "Het bevat beledigende taal of inhoud"
+
+msgid "It does not belong here"
+msgstr "Het hoort hier niet"
+
+msgid "I am flagging this comment as"
+msgstr "Ik markeer deze reactie als"
+
+msgid "Flag Comment"
+msgstr "Markeer reactie"
+
+msgid "Unhide this comment"
+msgstr "Maak deze reactie weer zichtbaar"
+
+msgid "Hide this comment"
+msgstr "Verberg deze reactie"
+
+msgid "Are you sure you want to unhide this comment?"
+msgstr "Weet u zeker dat u deze reactie weer zichtbaar wilt maken?"
+
+msgid ""
+"Hidden comments will not be visible to users without the \"Moderate comments\" "
+"permission. Are you sure you want to hide this comment?"
+msgstr ""
+"Verborgen reacties zullen niet zichtbaar zijn voor gebruikers zonder de \" "
+"Gemachtigde reacties \" weet u zeker dat u deze reactie wilt verbergen?"
+
+msgid "Hide Comment"
+msgstr "Verberg reactie"
+
+msgid "Unhide Comment"
+msgstr "Maak deze reactie weer zichtbaar"
+
+msgid "Comments"
+msgstr "Reacties"
+
+msgid "Edit this Comment"
+msgstr "Bewerk deze reactie"
+
+msgid "Delete this Comment"
+msgstr "Verwijder deze reactie"
+
+msgid "Unhide"
+msgstr "Zichtbaar maken"
+
+msgid "Unhide this Comment"
+msgstr "Maak deze reactie weer zichtbaar"
+
+msgid "flag"
+msgstr "Markeer"
+
+msgid "Flag this comment"
+msgstr "Markeer deze reactie"
+
+msgid "vote"
+msgstr "Stem"
+
+msgid "Vote for this comment"
+msgstr "Stem op deze reactie"
+
+#, php-format
+msgid "this comment was edited %1$s"
+msgid_plural "this comment was edited %2$d times, last edited %1$s"
+msgstr[0] "Deze reactie werd bewerkt %1$s"
+msgstr[1] "Deze reactie werd bewerkt%2$d keer, laatste bewerking %1$s"
+
+#, php-format
+msgid "%d hidden comment"
+msgid_plural "%d hidden comments"
+msgstr[0] "%dVerborgen reactie "
+msgstr[1] "%d Verborgen reacties"
+
+#, php-format
+msgid "%d more comment"
+msgid_plural "%d more comments"
+msgstr[0] "%d Meer reacties"
+msgstr[1] "%d Meer reacties"
+
+msgid "Expand to show all comments on this post"
+msgstr "Uit te breiden naar alle reacties op dit bericht tonen"
+
+msgid "add comment"
+msgstr "Voeg reactie toe"
+
+msgid "Add a new comment"
+msgstr "Voeg nieuwe reactie toe"
+
+#, php-format
+msgid ""
+"You must <a href=\"%s\" class=\"sabai-login popup-login\">login</a> to post "
+"comments"
+msgstr ""
+"Je moet <a href=\"%s\" class=\"sabai-login popup-login\">inloggen</a>om een "
+"reactie te plaatsen"
+
+#, php-format
+msgid "Comments for \"%s\""
+msgstr "reacties op \"%s\""
+
+msgid "Edit Comment"
+msgstr "Bewerk deze reactie"
+
+#, php-format
+msgid "Comments (%d)"
+msgstr "Reacties  (%d)"
+
+#, php-format
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+#, php-format
+msgid "Add comment to %s"
+msgstr "Voeg reactie toe op %s"
+
+#, php-format
+msgid "Edit own comments on %s"
+msgstr "Bewerk eigen reactie op %s"
+
+#, php-format
+msgid "Edit any comment on %s"
+msgstr "Bewerk %s"
+
+#, php-format
+msgid "Delete own comments on %s"
+msgstr "Verwijder eigen reactie op %s"
+
+#, php-format
+msgid "Vote up comments on %s"
+msgstr "Stem op reacties op %s "
+
+#, php-format
+msgid "Vote up own comments on %s"
+msgstr "Stem op eigen reacties op %s"
+
+#, php-format
+msgid "Flag comments on %s"
+msgstr "Markeer reacties op %s"
+
+msgid "Clear comments"
+msgstr "Verwijder reacties"
+
+#, php-format
+msgid "Deleted %d comment spam(s)"
+msgstr "Verwijderde %d spam reacties"
+
+msgid "Allow HTML block elements"
+msgstr "Sta HTML block elementen toe"
+
+#, php-format
+msgid "Post %s"
+msgstr "Bericht %s"
+
+msgid "Your post has been submitted successfully."
+msgstr "Je bericht is succesvol geplaatst"
+
+#, php-format
+msgid "Back to %s"
+msgstr "Terug naar%s"
+
+msgid "Thanks for your submission, we will review it and get back with you."
+msgstr ""
+"Bedankt voor uw inzending, wij gaan het beoordelen en komen er zo snel "
+"mogelijk op terug."
+
+#, php-format
+msgid "Add %s"
+msgstr "Toevoegen %s"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Draft"
+msgstr "Concept"
+
+msgid "Published on"
+msgstr "Gepubliceerd op"
+
+msgid "Featured"
+msgstr "Aanbevolen"
+
+#, php-format
+msgid "This is a featured %s"
+msgstr "Dit is aanbevolen %s"
+
+msgid "Priority"
+msgstr "Prioriteit"
+
+msgctxt "priority"
+msgid "High"
+msgstr "Hoog"
+
+msgctxt "priority"
+msgid "Normal"
+msgstr "Normaal"
+
+msgctxt "priority"
+msgid "Low"
+msgstr "Laag"
+
+msgid "End Date"
+msgstr "Eind datum"
+
+#, php-format
+msgid "%s posted successfully."
+msgstr "%s Succesvol geplaatst"
+
+msgid "Are you sure you want to permanently delete this post?"
+msgstr "Weet u zeker dat u dit bericht wilt verwijderen?"
+
+msgid "Delete Permanently"
+msgstr "Permanent verwijderen"
+
+msgid "Pending"
+msgstr "In afwachting"
+
+#, php-format
+msgid "%s updated successfully."
+msgstr "%s Succesvol ge-update"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Views"
+msgstr "Aantal keer bekeken"
+
+#, php-format
+msgid "%s posted for %s: %s"
+msgstr "%s Bericht op %s: %s"
+
+msgid "(no title)"
+msgstr "(Geen titel)"
+
+msgid "Restore"
+msgstr "Herstel"
+
+msgid "Restore this Post"
+msgstr "Herstel dit bericht"
+
+msgid "Delete this Post"
+msgstr "Verwijder dit bericht"
+
+msgid "Trash"
+msgstr "Prullenbak"
+
+msgid "Trash this Post"
+msgstr "Bericht in prullenbak doen"
+
+msgid "Preview"
+msgstr "Voorbeeld"
+
+msgid "View"
+msgstr "Bekijk"
+
+msgid "Move to Trash"
+msgstr "Verwijder naar prullenbak"
+
+msgid "Publish"
+msgstr "Publiceer"
+
+msgid "Empty Trash"
+msgstr "Prullenbak legen"
+
+msgid "Are you sure you want to restore this post from trash?"
+msgstr "Weet u zeker dat u het bericht uit de prullenbak wilt herstellen?"
+
+msgid "Restore from Trash"
+msgstr "Herstel uit de prullenbak"
+
+msgid "Are you sure you want to move this post to trash?"
+msgstr "Weet u zeker dat u dit bericht in de prullenbak wilt doen?"
+
+msgid "Active"
+msgstr "Actief"
+
+msgid "Added"
+msgstr "Toegevoegd"
+
+msgid "Recent posts"
+msgstr "Recente berichtien"
+
+#, php-format
+msgid "The most %d recent posts"
+msgstr "Meest %d recente berichten"
+
+msgid "Newest First"
+msgstr "Nieuwste eerst"
+
+msgid "Oldest First"
+msgstr "Oudste eerst"
+
+msgctxt "sort"
+msgid "Title"
+msgstr "Titel"
+
+msgid "Are you sure you want to delete this post?"
+msgstr "Weet u zeker dat u dit bericht wilt verwijderen?"
+
+msgid "Reason for deletion"
+msgstr "Reden van verwijderen"
+
+#, php-format
+msgid "Delete %s"
+msgstr "Verwijder %s"
+
+msgid "Published date"
+msgstr "Datum van publicatie"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Content type"
+msgstr "Content type"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid "Text input field"
+msgstr "Tekst invoer veld"
+
+msgid "Hidden field"
+msgstr "Verborgen veld"
+
+msgid "Field size"
+msgstr "Veld grootte"
+
+msgid "Small"
+msgstr "Klein "
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Large (responsive)"
+msgstr "Groot (responsive)"
+
+msgid "Minimum length"
+msgstr "Minimale lengte"
+
+msgid "The minimum length of value in characters."
+msgstr "De minimale lengte van de waarde in karakters"
+
+msgid "Maximum length"
+msgstr "Maximale lengte"
+
+msgid "The maximum length of value in characters."
+msgstr "De maximale lengte van de waarde in karakters"
+
+msgid "Other reason"
+msgstr "Andere reden"
+
+msgid "Trashed"
+msgstr "Verwijderd"
+
+msgid "Spam or offensive"
+msgstr "Spam of aanvallend"
+
+msgid "Link to post"
+msgstr "Link naar het bericht"
+
+msgid "Add featured post icon"
+msgstr "voeg aanbevolen icoon toe aan bericht"
+
+#, php-format
+msgid "Add %s (without approval)"
+msgstr "Voeg toe %s (zonder toestemming)"
+
+#, php-format
+msgid "Edit own %s"
+msgstr "Bewerk eigen %s"
+
+#, php-format
+msgid "Edit any %2$s"
+msgstr "Bewerk elke %2$s"
+
+#, php-format
+msgid "Delete own %s"
+msgstr "Verwijder eigen%s"
+
+#, php-format
+msgid "Delete any %2$s / Manage flagged %1$s"
+msgstr "Verwijder elke %2$s / Beheerde markering %1$s"
+
+#, php-format
+msgid "Edit %s"
+msgstr "Bewerk  %s"
+
+#, php-format
+msgid "%s for \"%s\""
+msgstr "%s aan \"%s\""
+
+msgid "Body"
+msgstr "Body"
+
+msgid "Keyword"
+msgstr "Keyword"
+
+msgid "Featured/Unfeatured"
+msgstr "Aanbevolen/Niet aanbevolen"
+
+msgid "Guest Author"
+msgstr "Gast auteur"
+
+#, php-format
+msgctxt "tab"
+msgid "All %s"
+msgstr "Alles %s"
+
+#, php-format
+msgid "Unfeatured %d content post(s)"
+msgstr "Niet aanbevolen %d Inhoud berichten"
+
+msgid "Number of months to show in date picker"
+msgstr "Nummer van maanden om te tonen in de date picker"
+
+msgctxt "range separator"
+msgid "to"
+msgstr "to"
+
+msgid "The second date must be later than the first date."
+msgstr "De tweede datum moet later zijn dan de eerste datum"
+
+msgid "Date/Time picker"
+msgstr "Datum/tijd picker"
+
+msgid "Set current date selected by default"
+msgstr "Huidige tijd geselecteerd bij default"
+
+msgid "Hour"
+msgstr "Uur"
+
+msgid "Minute"
+msgstr "Minuut"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "PM"
+msgstr "PM"
+
+msgctxt "timepicker"
+msgid "Now"
+msgstr "Nu"
+
+msgid "Deselect"
+msgstr "Deselecteer"
+
+msgid "Please select a date."
+msgstr "Selecteer een datum aub"
+
+msgid "Invalid date."
+msgstr "Ongeldige datum"
+
+#, php-format
+msgid "Date must be between %s and %s."
+msgstr "Datum moet tussen %s en %s zijn"
+
+#, php-format
+msgid "Date must be later than %s."
+msgstr "Datum moet later zijn dan %s"
+
+#, php-format
+msgid "Date must be earlier than %s."
+msgstr "Datum moet eerder zijn dan %s"
+
+#, php-format
+msgid "%s (desc)"
+msgstr "%s (desc)"
+
+msgid "Enable time (hour and minute)"
+msgstr "Tijd aan ( uur en minuten)"
+
+msgid ""
+"Check this option to allow the user to enter the time (hour and minute) as "
+"well as the date."
+msgstr ""
+"Vink deze optie aan om toe te staan dat de gebruiker de tijd ( uur en minuut) "
+"en de datum mag invoeren."
+
+msgid "Restrict dates"
+msgstr "Berperkte datums"
+
+msgid "Check this option to set the range of allowed dates for this field."
+msgstr ""
+"Vink deze optie aan om het bereik van de toegestane vastgestelde data voor dit "
+"veld toe te passen."
+
+msgid "Minimum date:"
+msgstr "Minimum datum:"
+
+msgid "Maximum date:"
+msgstr "Maximum datum:"
+
+msgid "The first date must be later than the second date."
+msgstr "De eerset datum moet later zijn dan de tweede datum."
+
+#, php-format
+msgid "Filter <span class=\"sabai-badge\">%d</span>"
+msgstr "Filter <span class=\"sabai-badge\">%d</span>"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Clear all filters"
+msgstr "Verwijder alle filters"
+
+msgid "Random"
+msgstr "Random"
+
+msgid "Unfeatured"
+msgstr "Niet aanbevolen"
+
+msgctxt "option"
+msgid "Any"
+msgstr "Elke"
+
+msgid "Show featured only"
+msgstr "Laat alleen aanbevolen zien"
+
+msgid "Guest author field"
+msgstr "Gast auteur veld"
+
+msgid "visible to anonymous users only"
+msgstr "alleen voor anonieme gebruikers  zichtbaar"
+
+msgid "Hide the Website field"
+msgstr "Verberg het website veld"
+
+msgid "Hide the header message"
+msgstr "Verberg de Header boodschap"
+
+msgid "Check MX record of e-mail address"
+msgstr "Check MX record van het e-mail address"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "IP Address"
+msgstr "IP adres"
+
+msgid "User Agent"
+msgstr "Gebruikers Agent"
+
+#, php-format
+msgid ""
+"Post as a guest by filling out the fields below or <a href=\"%s\" class="
+"\"sabai-login popup-login\">login</a> if you already have an account."
+msgstr ""
+"Plaats een bericht als gast door de velden hieronder in te vullen of <a href="
+"\"%s\" class=\"sabai-login popup-login\">login</a> als u al een account hebt."
+
+msgid "The email address may not be used."
+msgstr "Het E-mail adres mag niet worden gebruikt."
+
+msgid "Invalid domain name."
+msgstr "Ongeldige domein naam."
+
+msgid "Add More"
+msgstr "Voeg meer toe"
+
+msgid "Untitled"
+msgstr "Niet getiteld"
+
+#, php-format
+msgid "%s posted %s"
+msgstr "%s geplaatst %s"
+
+#, php-format
+msgid "last edited %s"
+msgstr "laatst bewerkt %s"
+
+#, php-format
+msgid "last active %s"
+msgstr "laatst actief %s"
+
+msgid "This post is featured."
+msgstr "Dit bericht is aanbevolen."
+
+msgid "Autocomplete text field"
+msgstr "Autocomplete text veld"
+
+msgid "ON/OFF"
+msgstr "ON/OFF"
+
+msgid "Checked"
+msgstr "Gecontroleerd"
+
+msgid "Unchecked"
+msgstr "Niet gecontroleerd"
+
+msgid "Form element type"
+msgstr "Formulier element type"
+
+msgid "Single checkbox"
+msgstr "Enkele checkbox"
+
+msgid "Radio buttons"
+msgstr "Radio buttons"
+
+msgid "Select list"
+msgstr "Selecteer lijst"
+
+msgid "Display inline"
+msgstr "Toon inline"
+
+msgid "Check this to align all options on the same line."
+msgstr "Vink dit aan om alle opties op dezelfde lijn uit te lijnen."
+
+msgid "Option labels"
+msgstr "Optie labels"
+
+msgid "Checkbox label"
+msgstr "Checkbox label"
+
+msgid "Enter the label displayed next to the checkbox."
+msgstr ""
+"Voer het weer te geven label toe wat naast de checkbox moet worden getoond."
+
+msgid "Min. length of keywords in characters"
+msgstr "Min. lengte van keywords in karakters"
+
+msgid "Match any or all"
+msgstr "Komt overeen met elke of alle"
+
+msgid "Match any"
+msgstr "Komt overeen met elke"
+
+msgid "Match all"
+msgstr "Komt overeen met alle"
+
+msgid "Choice"
+msgstr "kies"
+
+msgid "Checkboxes"
+msgstr "Checkboxes"
+
+msgid "Number of options to display"
+msgstr "Hoeveelheid opties om te laten zien"
+
+msgid ""
+"If there are more options than the number specified here, those options will "
+"be displayed in a popup window."
+msgstr ""
+"Als er meer opties dan het hier opgegeven aantal , zullen deze opties worden "
+"weergegeven in een popup -venster ."
+
+msgid "Label for link to open popup window"
+msgstr "Label voor de link om te openen in een popup window"
+
+#, php-format
+msgid "More %s"
+msgstr "Meer %s"
+
+msgid "Default text"
+msgstr "Standaard tekst"
+
+msgid "Range input field"
+msgstr "Range invoer veld"
+
+msgid "Range separator"
+msgstr "Range separator"
+
+msgid "Range slider step"
+msgstr "Range slider step"
+
+#, php-format
+msgid ""
+"The full specified value range of the slider (%s - %s) should be evenly "
+"divisible by the step"
+msgstr ""
+"het volledig opgegeven waarde bereik van de slider ( % s - % s ) moet deelbaar "
+"zijn door deze stap"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Carousel"
+msgstr "Carousel"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "ON label"
+msgstr "Aan label"
+
+msgid "OFF label"
+msgstr "Uit label"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Thumbnail (small)"
+msgstr "Thumbnail (small)"
+
+msgid "Thumbnail (medium)"
+msgstr "Thumbnail (medium)"
+
+msgid "Thumbnail (large)"
+msgstr "Thumbnail (large)"
+
+msgid "Thumbnail (small) with link"
+msgstr "Thumbnail (small) met link"
+
+msgid "Thumbnail (medium) with link"
+msgstr "Thumbnail (medium) met link"
+
+msgid "Decimal point"
+msgstr "Decimal point"
+
+msgid "Thousands separator"
+msgstr "Thousands separator"
+
+msgid "Open link in"
+msgstr "Open link in"
+
+msgid "Current window"
+msgstr "Huidige venster"
+
+msgid "New window"
+msgstr "Nieuw venster"
+
+msgid "Add to rel attribute"
+msgstr "Toevoegen aan rel attribute"
+
+msgid "Add \"nofollow\""
+msgstr "Voeg \"nofollow\" toe"
+
+msgid "Add \"external\""
+msgstr "Voeg \"external\" toe"
+
+msgid "Show link as"
+msgstr "Laat de link zien als"
+
+msgid "Text link"
+msgstr "Tekst link"
+
+msgid "Button"
+msgstr "Knop"
+
+msgid "Trim text"
+msgstr "Trim tekst"
+
+msgid "Maximum number of characters:"
+msgstr "Maximum aantal  karakters:"
+
+msgid "Suffix text:"
+msgstr "Suffix tekst:"
+
+msgid "Number of columns"
+msgstr "Aantal kolommen"
+
+msgid "The value must be greater than the first value."
+msgstr "De waarde moet groter zijn dan de eerste waarde"
+
+msgid "CAPTCHA"
+msgstr "CAPTCHA"
+
+msgid "Options"
+msgstr "Opties"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Number"
+msgstr "Nummer"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "The minimum value allowed in this field."
+msgstr "De minimaal toegestane  waarde in dit veld."
+
+msgid "Maximum"
+msgstr "Maximum"
+
+msgid "The maximum value allowed in this field."
+msgstr "De maximaal toegestane waarde in dit veld."
+
+msgid "Decimals"
+msgstr "Decimalen"
+
+msgid "The number of digits to the right of the decimal point."
+msgstr "Het aantal cijfers rechts van de decimale punt."
+
+msgid "0 (no decimals)"
+msgstr "0 (no decimals)"
+
+msgid "Field prefix"
+msgstr "Veld prefix"
+
+msgid "Example: $, #, -"
+msgstr "Voorbeeld: $, #, -"
+
+msgid "Field suffix"
+msgstr "Veld suffix"
+
+msgid "Example: km, %, g"
+msgstr "Voorbeeld: km, %, g"
+
+msgid "Phone Number"
+msgstr "Telefoon nummer"
+
+msgid "Range"
+msgstr "Bereik"
+
+msgid "Section Break"
+msgstr "Section Break"
+
+msgid "Single Line Text"
+msgstr "Single Line Text"
+
+msgid "Character validation"
+msgstr "Karakter validatie"
+
+msgid "Allow only integer numbers"
+msgstr "Alleen integere nummers toestaan"
+
+msgid "Allow only alphabetic characters"
+msgstr "Alleen alfabetische karakters toestaan"
+
+msgid "Allow only alphanumeric characters"
+msgstr "Alleen alphanumerieke karakters toestaan"
+
+msgid "Allow only lowercase characters"
+msgstr "alleen kleine karakters toestaan"
+
+msgid "Allow only uppercase characters"
+msgstr "alleen hoofdletter karakters toestaan"
+
+msgid "Must be a valid URL"
+msgstr "Moet een geldige URL zijn"
+
+msgid "Must be a valid e-mail address"
+msgstr "Moet een geldig E-mail adres zijn"
+
+msgid "Must match a regular expression"
+msgstr "Moet overeen komen met een reguliere uitdrukking"
+
+msgid "No validation"
+msgstr "Geen validatie"
+
+msgid "Regular Expression"
+msgstr "Reguliere expressie"
+
+msgid "Example: /^[0-9a-z]+$/i"
+msgstr "Voorbeeld: /^[0-9a-z]+$/i"
+
+msgid "Input mask"
+msgstr "Input mask"
+
+msgid ""
+"Use \"a\" to mask letter inputs (A-Z,a-z), \"9\" for numbers (0-9) and \"*\" "
+"for both."
+msgstr ""
+"Gebruik een \"a\" to mask letter inputs (A-Z,a-z), \"9\" voor nummers  (0-9) "
+"en \"*\" voor beide."
+
+msgid "Paragraph Text"
+msgstr "Paragraaf tekst"
+
+msgctxt "field type"
+msgid "User"
+msgstr "Gebruiker"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Make this field checked by default"
+msgstr "Maak dit veld standaard aangevinkt"
+
+msgid "Auto-populate e-mail address field with the current user's e-mail address"
+msgstr ""
+"Auto-populate e-mail adres veld met het e-mail adres van de huidige gebruiker "
+
+msgid "HTML fragment"
+msgstr "HTML fragment"
+
+msgid "Link field"
+msgstr "Link veld"
+
+msgid "Default link title"
+msgstr "Standaard link titel"
+
+msgid "Do not allow custom link title"
+msgstr "Aangepaste link titel niet toestaan"
+
+msgid "Link Title:"
+msgstr "Link Titel:"
+
+msgid "reCAPTCHA theme"
+msgstr "reCAPTCHA theme"
+
+msgctxt "reCAPTCHA theme"
+msgid "Light"
+msgstr "licht"
+
+msgctxt "reCAPTCHA theme"
+msgid "Dark"
+msgstr "Donker"
+
+msgid "reCAPTCHA type"
+msgstr "reCAPTCHA type"
+
+msgctxt "reCAPTCHA type"
+msgid "Image"
+msgstr "Afbeelding"
+
+msgctxt "reCAPTCHA type"
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Please fill out this field."
+msgstr "Vul dit veld in aub."
+
+#, php-format
+msgid "Failed verifying reCAPTCHA input: %s"
+msgstr "Het invullen en het verifiëren van de reCAPTCHA is mislukt: % s"
+
+msgid "- Select -"
+msgstr "- Selecteer -"
+
+msgid "Slider input field"
+msgstr "Slider invoer veld"
+
+msgid "Textarea field"
+msgstr "tekstgebied veld"
+
+msgid "Rows"
+msgstr "Rijen"
+
+msgid "Preserve line breaks"
+msgstr "Behoudt regeleinden"
+
+msgid "Auto-populate field"
+msgstr "Auto-populate veld"
+
+msgid "Do not auto-populate"
+msgstr "Doe geen auto-populate"
+
+msgid "E-mail address of current user"
+msgstr "E-mail adres van de huidige gebruiker"
+
+msgid "Website URL of current user"
+msgstr "Website URL van de huidige gebruiker"
+
+msgid "User name of current user"
+msgstr "Gebruikersnaam van de huidige gebruiker"
+
+msgid "Display name of current user"
+msgstr "display naam van de huidige gebruiker"
+
+msgid "Set current user selected by default"
+msgstr "Stel huidige gebruiker in als standaard geselecteerd"
+
+msgid "Enable enhanced user interface (recommended)"
+msgstr "Inschakelen verbeterde gebruikersinterface ( aanbevolen)"
+
+msgid "Select User"
+msgstr "Selecteer gebruiker"
+
+msgid "Video field"
+msgstr "Video veld"
+
+msgid "Video ID:"
+msgstr "Video ID:"
+
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA Site Key"
+
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA Secret Key"
+
+msgid "Add Field"
+msgstr "Voeg veld toe"
+
+msgid "Invalid field type."
+msgstr "Ongeldig veld type."
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid ""
+"Select the type of form element you would like to present to the user when "
+"editing this field."
+msgstr ""
+"Selecteer het type formulier element dat u wilt presenteren aan de gebruiker "
+"wanneer deze dit gebied bewerkt ."
+
+msgid "Field name"
+msgstr "Veld naam"
+
+msgid ""
+"Enter a machine readable name for this form field. Only lowercase alphanumeric "
+"characters and underscores are allowed."
+msgstr ""
+"Voer een machine leesbare naam voor dit formulier veld in . Alleen kleine "
+"alfanumerieke karakters en underscores zijn toegestaan."
+
+msgid "Field Settings"
+msgstr "veld instellingen"
+
+msgid "Display Settings"
+msgstr "Display instellingen"
+
+msgid "Access Control Settings"
+msgstr "Toegangs controle instellingen"
+
+msgid "Advanced Settings"
+msgstr "Geavanceerde instellingen"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Hide label"
+msgstr "Verberg label"
+
+msgid "Description"
+msgstr "Omschrijving"
+
+msgid "Enter a short description of the field displayed to the user."
+msgstr ""
+"Vul een korte omschrijving van het veld in wat zichtbaar is voor de gebruiker."
+
+msgid "Required"
+msgstr "Verplicht"
+
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+msgid "Maximum number of values"
+msgstr "maximum aantal waarden"
+
+msgid "Maximum number of values users can enter for this field."
+msgstr "Maximum aantal waarden welke gebruikers kunnen invoeren in dit veld."
+
+#, php-format
+msgid "Display Settings (%s)"
+msgstr "Display instellingen (%s)"
+
+msgid "Display this field"
+msgstr "Toon dit veld"
+
+msgid "Field renderer"
+msgstr "veld weergave"
+
+msgid "A field renderer determines how the value of a field will be displayed."
+msgstr "Een veld weergave bepaald hoe de waarden van het veld worden getoond."
+
+msgid "Field title"
+msgstr "Veld titel"
+
+msgid "Use the form label"
+msgstr "Gebruik het tabel formulier"
+
+msgid "Custom"
+msgstr "Standaard"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Field value separator"
+msgstr "Veld waarde separator"
+
+#, php-format
+msgid "Inherit display settings from %s"
+msgstr "inherit display instellingen van %s"
+
+msgid ""
+"Select user roles to which this field is visible when submitting the form."
+msgstr ""
+"Selecteer de gebruiker rollen waarop dit veld zichtbaar is bij het indienen "
+"van het formulier"
+
+msgid "Select user roles that can view this field."
+msgstr "Selecteer gebruiker rollen van wie dit veld kunnen bekijken"
+
+msgid "Default value"
+msgstr "Standaard waarde"
+
+msgid "Unlimited"
+msgstr "Onbeperkt"
+
+msgid "The name is already in use by another field."
+msgstr "Deze naam is al in gebruik bij een ander veld"
+
+msgid "Select filter"
+msgstr "Selecteer een filter"
+
+msgid "Filter Settings"
+msgstr "Filter instellingen"
+
+msgid "Form element type:"
+msgstr "Formulier element type"
+
+msgid "Select user roles that can edit this field."
+msgstr "Selecteer gebruikers rollen welke dit veld mogen bewerken"
+
+msgid "Invalid field."
+msgstr "Ongeldig veld"
+
+msgid "Filter type:"
+msgstr "Filter type:"
+
+#, php-format
+msgctxt "filter_type"
+msgid "%s (target field: %s)"
+msgstr "%s (target field: %s)"
+
+#, php-format
+msgid "%s (hidden)"
+msgstr "%s (hidden)"
+
+msgid "(hidden)"
+msgstr "(hidden)"
+
+msgctxt "sabai"
+msgid "Manage Form"
+msgstr "Manage Form"
+
+msgctxt "admin-tab"
+msgid "Fields"
+msgstr "Velden"
+
+msgctxt "sabai"
+msgid "Manage Filters"
+msgstr "Manage Filters"
+
+msgid ""
+"One or more fields have not been saved. You must save or delete these fields "
+"first before submitting the form."
+msgstr ""
+"Een of meer velden zijn niet opgeslagen. Je moet de velden eerst opslaan of "
+"verwijderen voordat u het formulier indient"
+
+msgid ""
+"You have made changes but it has not been saved. You must submit the form for "
+"the changes to be saved permanently."
+msgstr ""
+"Je hebt wijzigingen gemaakt maar deze zijn nog niet opgeslagen. Je moet het "
+"formulier indienen om de wijzigingen permanent op te slaan"
+
+msgid "Are you sure?"
+msgstr "Weet u het zeker?"
+
+msgid "Photo size"
+msgstr "Foto formaat"
+
+msgid "Thumbnail photo"
+msgstr "Thumbnail foto"
+
+msgid "Medium size photo"
+msgstr "Medium formaat foto"
+
+msgid "Large size photo"
+msgstr "Groot formaat foto"
+
+msgid "Original size photo"
+msgstr "Origineel formaat foto"
+
+msgid "You have already uploaded enough files!"
+msgstr "Je hebt al genoeg bestanden ge-uploaded!"
+
+#, php-format
+msgid "Failed uploading file. Error code: %d"
+msgstr "Uploaden mislukt. Fout code %d"
+
+msgid "Failed creating temporary file"
+msgstr "tijdelijke bestand creëren mislukt."
+
+msgid "Failed opening temporary file with write permission"
+msgstr "openen van tijdelijke bestand met schrijf toestemming is mislukt"
+
+msgid "Failed reading php input stream"
+msgstr "Het lezen van de PHP invoer stream is mislukt"
+
+msgid "Image size"
+msgstr "Afbeelding formaat"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+msgid "Medium size"
+msgstr "Medium formaat"
+
+msgid "Large size"
+msgstr "Groot formaat"
+
+msgid "Original size"
+msgstr "Origineel formaat"
+
+msgid "File"
+msgstr "Bestand"
+
+msgid "Image"
+msgstr "Afbeelding"
+
+msgid "File upload field"
+msgstr "Bestand upload veld"
+
+msgid "Maximum file size"
+msgstr "Maximale bestand grootte"
+
+msgid ""
+"The maximum file size of uploaded files in kilobytes. Leave this field blank "
+"for no limit."
+msgstr ""
+"Maximale bestand grootte in kilobytes. Laat dit veld leeg voor geen limit"
+
+msgid "Allowed file extensions"
+msgstr "sta bestand extensies toe"
+
+msgid ""
+"Enter a list of allowed file extensions separated by commas (i.e. jpg, gif, "
+"png, pdf)."
+msgstr ""
+"Voer een lijst met toegestane extensies  toe gescheiden door een komma (i.e. "
+"jpg, gif, png, pdf)."
+
+#, php-format
+msgid "Failed fetching content of file %s."
+msgstr "Het ophalen van de inhoud van het bestand is mislukt % s ."
+
+#, php-format
+msgid "Failed generating hash value for file %s."
+msgstr "Het genereren van hash-waarde voor het bestand is mislukt % s ."
+
+#, php-format
+msgid "%.1fMB"
+msgstr "%.1fMB"
+
+#, php-format
+msgid "%.1fKB"
+msgstr "%.1fKB"
+
+#, php-format
+msgid "%dB"
+msgstr "%dB"
+
+#, php-format
+msgid "Supported file formats: %s"
+msgstr "Ondersteunde bestands formaten:%s"
+
+msgid "There are currently no files uploaded."
+msgstr "Er zijn op dit moment geen bestanden ge-uploaded "
+
+#, php-format
+msgid "Maximum number of files %d, maximum file size %s."
+msgstr "Het maximale aantal bestanden %d, maximale bestands grootte %s"
+
+#, php-format
+msgid "Maximum file size %s."
+msgstr "Maximale bestands grootte %s"
+
+msgid "File Name"
+msgstr "Bestands naam"
+
+msgid "Size"
+msgstr "Formaat"
+
+#, php-format
+msgid "You may not upload more than %d files."
+msgstr "Je mag niet meer dan %d bestanden uploaden"
+
+#, php-format
+msgid "You may not upload more than %d files"
+msgstr "Je mag niet meer dan %d bestanden uploaden"
+
+#, php-format
+msgid "Deleted %d expired file upload token(s)."
+msgstr "Verwijderde %d verlopen upload token(s)."
+
+#, php-format
+msgid "Failed saving file %s to the upload directory."
+msgstr "Bestand opslaan mislukt %s naar de upload map"
+
+#, php-format
+msgid "File %s does not exist."
+msgstr "Bestand %s bestaat niet."
+
+#, php-format
+msgid "Failed opening stream for file %s."
+msgstr "Het openen van de stream voor bestand %s is mislukt."
+
+msgid "File Attachments"
+msgstr "Bestands toevoegingen"
+
+msgid "This post has one or more files attached."
+msgstr "Bij dit bericht zijn een of meer bestanden toegevoegd"
+
+msgid "This post has one or more images attached."
+msgstr "Bij dit bericht zijn een of meer afbeeldingen toegevoegd"
+
+msgid "File upload directory"
+msgstr "Bestand upload map"
+
+#, php-format
+msgid ""
+"Enter the path to a directory where uploaded files are stored. Leave blank to "
+"use the system default (%s). This directory must be writeable by the server."
+msgstr ""
+"Voer het pad naar een map waar de geüploade bestanden worden opgeslagen . Laat "
+"leeg om de systeem standaard ( % s ) te gebruiken. Deze map moet te "
+"beschrijfbaar zijn  door de server."
+
+msgid "Temporary file upload directory"
+msgstr "Tijdelijke bestanden upload map"
+
+#, php-format
+msgid ""
+"Enter the path to a directory where temporary uploaded files are stored. Leave "
+"blank to use the system default (%s). This directory must be writeable by the "
+"server."
+msgstr ""
+"Voer het pad naar een map waar de tijdelijk bestanden zijn opgeslagen. aat "
+"leeg om de systeem standaard ( % s ) te gebruiken. Deze map moet te "
+"beschrijfbaar zijn  door de server."
+
+msgid "Thumbnail directory"
+msgstr "Thumbnail map"
+
+#, php-format
+msgid ""
+"Enter the path to a directory where thumbnail files are stored. Leave blank to "
+"use the system default (%s). This directory must be writeable by the server "
+"and accessible by the web browser."
+msgstr ""
+"Voer het pad naar een map waar de thumbnail zijn opgeslagen. aat leeg om de "
+"systeem standaard ( % s ) te gebruiken. Deze map moet te beschrijfbaar zijn  "
+"door de server."
+
+msgid "Thumbnail size"
+msgstr "Thumbnail size"
+
+msgid "Enter the dimension of thumbnail files in pixels."
+msgstr "Voer de afmeting van de thumbnail bestanden in  pixels in."
+
+msgid "Thumbnail resize method"
+msgstr "Thumbnail resize methode"
+
+msgid "Crop"
+msgstr "Crop"
+
+msgid "Scale"
+msgstr "Scale"
+
+msgid "Disable pretty URLs"
+msgstr "Pretty URLs uitzetten"
+
+msgid "The path must be different fom the other two."
+msgstr "Dit pad moet anders zijn dan de andere twee"
+
+msgid "Redirecting..."
+msgstr "Omgeleiden ..."
+
+msgid "cancel"
+msgstr "annuleren"
+
+#, php-format
+msgid "Sort by %s"
+msgstr "Sorteer op %s"
+
+msgid "Address Line 1"
+msgstr "Adres regel 1"
+
+msgid "Address Line 2"
+msgstr "Adres regel 2"
+
+msgid "City"
+msgstr "Plaats"
+
+msgid "State / Province / Region"
+msgstr "Provincie"
+
+msgid "Postal / Zip Code"
+msgstr "Post / Zip code"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "This field may not be empty."
+msgstr "Dit veld mag niet leeg zijn."
+
+#, php-format
+msgid "Maximum of %d items is allowed for this field."
+msgstr "Maximaal % d items toegestaan ​​voor dit veld."
+
+msgid "No matches found"
+msgstr "Geen overeenkomsten gevonden"
+
+#, php-format
+msgid "Please enter %d or more characters"
+msgstr "Voer %d of meer karakters in"
+
+msgid "Selection required."
+msgstr "Selectie vereist."
+
+msgid "Invalid option selected."
+msgstr "ongeldige optie geselecteerd"
+
+#, php-format
+msgid "Maximum of %d selections allowed."
+msgstr "Maximale %d selecties toegestaan."
+
+msgid "File must be uploaded."
+msgstr "Bestand moet worden ge-upload"
+
+msgid "No records found."
+msgstr "Niks gevonden."
+
+msgid "Value"
+msgstr "Waarde"
+
+msgid "Add from CSV"
+msgstr "Voeg toe uit CSV"
+
+#, php-format
+msgid "The input value did not match the regular expression: %s"
+msgstr "De invoer waarde komt niet overeen met een reguliere expressie: %s"
+
+msgid "Please select at least one option."
+msgstr "Selecteer minstens een optie A.U.B."
+
+#, php-format
+msgid "The input range must be between %s and %s."
+msgstr "De invoer moet tussen %s en %s zijn."
+
+msgid "Selection is required for this field."
+msgstr "Selectie is verplicht voor dit veld"
+
+#, php-format
+msgid "Maximum of %d selections is allowed for this field."
+msgstr "Maximale %d selecties toegestaan voor dit veld"
+
+msgid "Submit"
+msgstr "Verstuur"
+
+msgid "Invalid token"
+msgstr "Ongeldige token"
+
+msgid "An error occurred while processing the form."
+msgstr "Er is een fout opgetreden tijdens het verwerken van het formulier"
+
+msgid "Please correct the error(s) below."
+msgstr "Verbeter de onderstaande fout(en) A.U.B."
+
+msgid "The input value must be an integer."
+msgstr "De invoerwaarde moet integer zijn."
+
+msgid "The input value must be numeric."
+msgstr "De invoerwaarde moet numeriek zijn."
+
+msgid "The input value must consist of alphabets only."
+msgstr "De invoerwaarde moet  uitsluitend uit het alfabet bestaan."
+
+msgid "The input value must consist of alphanumeric characters only."
+msgstr "De invoerwaarde moet uitsluitend uit  alfanumerieke tekens bestaan."
+
+msgid "The input value must consist of lowercasae characters only."
+msgstr "De invoerwaarde moet uitsluitend ​​uit kleine letters bestaan."
+
+msgid "The input value must consist of uppercase characters only."
+msgstr "De invoerwaarde moet uitsluitend uit hoofdletters bestaan."
+
+msgid "The input value is not a valid URL."
+msgstr "De invoerwaarde is geen geldig URL."
+
+msgid "The input value is not a valid E-mail address."
+msgstr "De invoerwaarde is geen geldig E-mail adres."
+
+#, php-format
+msgid "The input value must be %d characters."
+msgstr "De invoerwaarde moet %d karakters zijn."
+
+#, php-format
+msgid "The input value must be between %d and %d characters."
+msgstr "De invoerwaarde moet tussen %d en %d karakters zijn"
+
+#, php-format
+msgid "The input value must be shorter than %d characters."
+msgstr "De invoerwaarde moet korter zijn dan %d karakters."
+
+#, php-format
+msgid "The input value must be longer than %d characters."
+msgstr "De invoerwaarde moet langer zijn dan %d karakters."
+
+#, php-format
+msgid "The value must be equal or greater than %s."
+msgstr "De invoerwaarde moet gelijk zijn of groter zijn dan %s."
+
+#, php-format
+msgid "The value must not be greater than %s."
+msgstr "De invoerwaarde mag niet groter zijn dan %s."
+
+msgid "Next step"
+msgstr "Volgende stap"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Previous"
+msgstr "Vorige"
+
+msgid "Markdown editor"
+msgstr "Markdown bewerker"
+
+msgid "Hide editor buttons"
+msgstr "Verstop bewerker buttons"
+
+msgid "Hide preview"
+msgstr "Verstop voorbeeld"
+
+msgid "Strong <strong> Ctrl+B  4"
+msgstr "Strong <strong> Ctrl+B  4"
+
+msgid "strong text"
+msgstr "strong tekst"
+
+msgid "Emphasis <em> Ctrl+I"
+msgstr "Nadruk <em> Ctrl+I"
+
+msgid "emphasized text"
+msgstr "nadrukkelijke tekst"
+
+msgid "Hyperlink <a> Ctrl+L"
+msgstr "Hyperlink <a> Ctrl+L"
+
+msgid "enter link description here"
+msgstr "Voer hier de link beschrijving in"
+
+msgid "<h2>Insert Hyperlink</h2><p>http://example.com/ \"optional title\"</p>"
+msgstr ""
+"<h2>Hyperlink invoegen</h2><p>http://example.com/ \"optionele titel\"</p>"
+
+msgid "Blockquote <blockquote> Ctrl+Q"
+msgstr "Kladblok <blockquote> Ctrl+Q"
+
+msgid "Blockquote"
+msgstr "Kladblok"
+
+msgid "Code Sample <pre><code> Ctrl+K"
+msgstr "Code voorbeeld <pre><code> Ctrl+K"
+
+msgid "enter code here"
+msgstr "Voeg hier de code in"
+
+msgid "Image <img> Ctrl+G"
+msgstr "Afbeelding <img> Ctrl+G"
+
+msgid "enter image description here"
+msgstr "voeg hier de beschrijving van de afbeelding toe"
+
+msgid ""
+"<h2>Insert Image</h2><p>http://example.com/images/diagram.jpg \"optional title"
+"\"</p>"
+msgstr ""
+"<h2>Afbeelding invoegen</h2><p>http://example.com/images/diagram.jpg "
+"\"optionele titel\"</p>"
+
+msgid "Numbered List <ol> Ctrl+O"
+msgstr "Genummerde lijst <ol> Ctrl+O"
+
+msgid "Bulleted List <ul> Ctrl+U"
+msgstr "opsommingstekens lijst <ul> Ctrl+U"
+
+msgid "List item"
+msgstr "Lijst item"
+
+msgid "Heading <h1>/<h2> Ctrl+H"
+msgstr "Heading <h1>/<h2> Ctrl+H"
+
+msgid "Heading"
+msgstr "Heading"
+
+msgid "Horizontal Rule <hr> Ctrl+R"
+msgstr "Horizontale regel <hr> Ctrl+R"
+
+msgid "Undo - Ctrl+Z"
+msgstr "Ongedaan maken - Ctrl+Z"
+
+msgid "Redo - Ctrl+Y"
+msgstr "Opnieuw - Ctrl+Y"
+
+msgid "Redo - Ctrl+Shift+Z"
+msgstr "Opnieuw - Ctrl+Shift+Z"
+
+msgid "Markdown Editing Help"
+msgstr "Markdown bewerk Help"
+
+msgid "Enable markdown help"
+msgstr "zet markdown help aan"
+
+msgid "Help URL"
+msgstr "Help URL"
+
+msgid ""
+"Enter the URL of a page that will open up in a popup window when the help "
+"button on the Markdown editor is clicked."
+msgstr ""
+"Voer de URL in van een pagina die zich opent in een popup-venster wanneer er "
+"op de Help -knop in de Markdown editor wordt geklikt."
+
+msgid "Help window dimension"
+msgstr "Help scherm dimensie"
+
+msgid "Enter the dimension of the popup help window in pixels."
+msgstr "Enter the dimension of the popup help window in pixels."
+
+msgid "Icon size"
+msgstr "Icoon formaat"
+
+msgid "Large"
+msgstr "Groot"
+
+msgid "X-Large"
+msgstr "X-Groot"
+
+msgid "Social Accounts"
+msgstr "Sociale Accounts"
+
+msgid "Social medias"
+msgstr "Sociale Medias"
+
+msgid "Share"
+msgstr "Deel"
+
+#, php-format
+msgid "Share this %s"
+msgstr "Deel dit %s"
+
+msgid "Enable social sharing"
+msgstr "Schakel sociaal delen in"
+
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen"
+
+msgid "Permissions"
+msgstr "Toestemmingen"
+
+#, php-format
+msgid "Configure %s Add-on"
+msgstr "Configureer %s Add-on"
+
+msgid "Clone Add-on"
+msgstr "Clone Add-on"
+
+#, php-format
+msgid "Press the button below to clone the <strong>%s</strong> add-on."
+msgstr "KLik op de knop hieronder om de  Add-on <strong>%s</strong> te clonen."
+
+msgid "Add-on Name"
+msgstr "Add-on naam"
+
+msgid "The name is already in use by another add-on."
+msgstr "De naam word al gebruikt bij een andere Add-on"
+
+msgid "There is already a cloned add-on with that name."
+msgstr "Er is al een geclonede Add-on met die naam"
+
+#, php-format
+msgid "Add-on %s could not be created."
+msgstr "Add-on %s kon niet worden gecreëerd."
+
+#, php-format
+msgid "Add-on %s has been created."
+msgstr "Add-on %s is gecreëerd"
+
+msgid "Delete Add-on"
+msgstr "Verwijder Add-on"
+
+#, php-format
+msgid "Are you sure you want to delete <strong>%s</strong>?"
+msgstr "Weet u zeker dat u <strong>%s</strong> wilt verwijderen?"
+
+#, php-format
+msgid "Add-on %s has been deleted."
+msgstr "Add-on %s is verwijderd"
+
+msgid "Enable this email notification"
+msgstr "Schakel deze e-mail notificatie in."
+
+#, php-format
+msgid ""
+"Enter the message that should be sent with this notification. Available "
+"template tags: %s"
+msgstr ""
+"Voer het bericht in dat moet worden verzonden met deze notificatie. "
+"Beschikbare template tags: % s"
+
+msgid "Subject"
+msgstr "Onderwerp"
+
+msgid "User Roles"
+msgstr "Gebruiker rollen"
+
+msgid "Select the user roles to which this email notification is sent."
+msgstr "Selecteer de gebruiker rollen waarop dit e-mailbericht is verzonden."
+
+msgid "Send this notification to guest authors"
+msgstr "Stuur deze notificatie naar gast auteurs."
+
+msgid "Send a copy to users of selected roles"
+msgstr "Stuur een kopie naar de gebruikers van de geselecteerde rollen"
+
+msgid "Select the user roles to which a copy of this email notification is sent."
+msgstr ""
+"Selecteer de gebruiker rollen naar wie een kopie van dit e-mailbericht wordt "
+"verzonden."
+
+msgid "Install Add-on"
+msgstr "Installeer Add-on"
+
+#, php-format
+msgid ""
+"You are about to install the <strong>%s</strong> (version: <strong>%s</"
+"strong>) add-on."
+msgstr ""
+"U staat op het punt om de Add-on <strong>%s</strong> (version: <strong>%s</"
+"strong>) te installeren"
+
+#, php-format
+msgid "Add-on %s has been installed."
+msgstr "De Add-on %s is geïnstalleerd"
+
+msgid "Reload Add-on"
+msgstr "Add-on opnieuw laden"
+
+#, php-format
+msgid ""
+"Press the button below to reload the current version of <strong>%s</strong>."
+msgstr ""
+"Druk op de knop hieronder om de huidige versie van <strong>%s</strong> opnieuw "
+"te laden"
+
+#, php-format
+msgid "Add-on %s has been upgraded."
+msgstr "De Add-on %s is ge-upgrade"
+
+msgid "Uninstall Add-on"
+msgstr "deinstalleer Add-on"
+
+#, php-format
+msgid ""
+"Are you sure you want to uninstall <strong>%s</strong>? All data of this addon "
+"will be deleted."
+msgstr ""
+"Weet u zeker dat u dit wilt deinstalleren <strong>%s</strong>? alle gegevens "
+"van deze Add-on zal worden verwijderd."
+
+#, php-format
+msgid "Add-on %s has been uninstalled."
+msgstr "Add-on %s is geïnstalleerd"
+
+msgid "Upgrade Add-on"
+msgstr "Upgrade de Add-on"
+
+#, php-format
+msgid ""
+"Press the button below to upgrade <strong>%s</strong> to version <strong>%s</"
+"strong>."
+msgstr ""
+"Druk op de knop hieronder om de upgrade <strong>%s</strong> naar versie "
+"<strong>%s</strong> uit te voeren"
+
+msgid "Guest"
+msgstr "Gast"
+
+msgid "---------- Forwarded message ----------"
+msgstr "---------- Doorgestuurd bericht ----------"
+
+#, php-format
+msgid "Sent From: %s"
+msgstr "Gestuurd van %s"
+
+#, php-format
+msgid "Sent to: %s <%s>"
+msgstr "Verstuurd naar: %s <%s>"
+
+#, php-format
+msgid "Sent to: %s <%s> and %d other recipient(s)"
+msgstr "Verstuurd naar: %s <%s> en %d andere ontvanger(s)"
+
+#, php-format
+msgid "Original Subject: %s"
+msgstr "Origineel Onderwerp %s"
+
+#, php-format
+msgid "FW: %s"
+msgstr "FW:%s"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Sabai Settings"
+msgstr "Sabai Instellingen"
+
+msgid "System Settings"
+msgstr "Systeem Instellingen"
+
+msgid "System Information"
+msgstr "Systeem Informatie"
+
+msgid "Run Cron"
+msgstr "Run Cron"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Clear Cache"
+msgstr "Cache wissen"
+
+msgid "Sabai Add-Ons"
+msgstr "Sabai Add-ons"
+
+msgid "Version"
+msgstr "Versie"
+
+msgid "Installable Add-ons"
+msgstr "Installeerbare Add-ons"
+
+msgid "Upgrade this add-on"
+msgstr "Upgrade deze Add-on"
+
+#, php-format
+msgid "Upgrade %s Add-on"
+msgstr "Upgrade %s Add-on"
+
+msgid "Uninstall this add-on"
+msgstr "geïnstalleer deze Add-on"
+
+#, php-format
+msgid "Uninstall %s Add-on"
+msgstr "de-installeer %s Add-on"
+
+msgid "Configure this add-on"
+msgstr "configureer deze Ad-on"
+
+msgid "Clone this add-on"
+msgstr "Clone deze Add-on"
+
+#, php-format
+msgid "Clone %s Add-on"
+msgstr "Clone %s add-on"
+
+msgid "Reload this add-on"
+msgstr "Deze Add-on opnieuw laden"
+
+#, php-format
+msgid "Reload %s Add-on"
+msgstr "Add-on %s opnieuw laden"
+
+#, php-format
+msgid "<strong>%s</strong> by %s"
+msgstr "<strong>%s</strong> door %s"
+
+#, php-format
+msgid "%s addon for Sabai"
+msgstr "%s addon voor Sabai"
+
+msgid "Install this add-on"
+msgstr "Installeer deze add-on"
+
+#, php-format
+msgid "Install %s"
+msgstr "Installeer %s"
+
+msgid "Delete this add-on"
+msgstr "Verwijder deze Add-on"
+
+msgid "Unknown"
+msgstr "Onbekend"
+
+msgctxt "Upgrade add-ons"
+msgid "Upgrade Checked"
+msgstr "Upgrade gecontroleerd"
+
+msgctxt "Reload add-ons"
+msgid "Reload Checked"
+msgstr "Gecontroleerde opnieuw laden"
+
+msgid "\"No Image\" image URL"
+msgstr "\"Geen afbeelding\" image URL"
+
+#, php-format
+msgid "Leave blank to use the system default (%s)."
+msgstr "Laat leeg om het systeem standaard te gebruiken (%s)."
+
+msgid "\"No Image\" image URL (small)"
+msgstr "\"Geen afbeelding\" image URL(small)"
+
+msgid "Do not load jQuery UI CSS"
+msgstr "Laadt jQuery UI CSS niet"
+
+msgid "Do not load bxslider javascript library on startup"
+msgstr "Laadt bxslider javascript library niet bij bij het opstarten"
+
+#, php-format
+msgid "%s created successfully."
+msgstr "%s succesvol gecreëerd"
+
+#, php-format
+msgid "Are you sure you want to delete this %s?"
+msgstr "Weet u zeker dat u dit %s wilt verwijderen?"
+
+#, php-format
+msgctxt "Delete taxonomy term form submit button"
+msgid "Delete %s"
+msgstr "Verwijder %s"
+
+#, php-format
+msgctxt "Delete taxonomy term modal window title"
+msgid "Delete this %s"
+msgstr "Verwijder %s"
+
+#, php-format
+msgid "Recount %s"
+msgstr "Recount %s"
+
+msgid "Are you sure you want to <em>permanently</em> delete this item?"
+msgstr "Weet u zeker dat u dit item  <em>permanent</em> wilt verwijderen?"
+
+#, php-format
+msgid "Recent posts tagged %s"
+msgstr "Recent bericht gelabeld %s"
+
+#, php-format
+msgid "The most recent %d posts tagged %s"
+msgstr "Het meest recente %d bericht is gelabeld %s"
+
+msgid "Creation Date"
+msgstr "Datum van Creëren"
+
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+msgid "Parent Term"
+msgstr "Hoofd voorwaarden"
+
+#, php-format
+msgid "Select %s"
+msgstr "Selecteer %s"
+
+msgid "Number of term options"
+msgstr "Aantal voorwaarde opties"
+
+msgid "Depth of term hierarchy tree"
+msgstr "Diepte van de term hiërarchie boom"
+
+msgid "Icon"
+msgstr "Icoon"
+
+msgid "Maximum number of items to display (0 or unlimited)"
+msgstr "Maximum aantal items om te tonen ( 0 of onbeperkt )"
+
+msgid "Separator"
+msgstr "Separator"
+
+msgid "Taxonomy Terms"
+msgstr "Taxonomie Voorwaarden"
+
+msgid "Enable enhanced user interface"
+msgstr "Inschakelen verbeterde gebruikersinterface"
+
+#, php-format
+msgid ""
+"Check this to apply the jQuery %s plugin to this field to enable ajax auto-"
+"suggestion and more user friendly input method."
+msgstr ""
+"Vink dit aan om de jQuery % s plugin van dit veld om de ajax autosuggestie en "
+"gebruiksvriendelijker invoermethode in te schakelen ."
+
+msgid "Allow adding new items"
+msgstr "Toevoegen van nieuwe items toestaan"
+
+msgid ""
+"Check this to allow the user to add new items that do not currently exist in "
+"the list. This requires the \"Add XXX\" permission granted to the user, where "
+"XXX is the type of item such as Categories, Tags, and etc."
+msgstr ""
+"Vink dit aan om de gebruiker toe te staan ​​om nieuwe items die momenteel niet "
+"bestaan ​​in de lijst toe te voegen . Dit vereist de \"Add XXX \" toestemming "
+"verleend aan de gebruiker , waar XXX het type item aangeeft , zoals "
+"categorieën , tags , etc."
+
+msgid "Enter a text string used to separate multiple terms."
+msgstr ""
+"Voer een tekenreeks in die wordt gebruikt om meerdere zoektermen te scheiden."
+
+#, php-format
+msgid "Parent %s"
+msgstr "Hoofd%s"
+
+#, php-format
+msgid "The following %s do not exist: %s"
+msgstr "De volgende %s bestaan ​​niet : %s"
+
+msgid "Info"
+msgstr "Informatie"
+
+#, php-format
+msgctxt "Delete taxonomy term page title"
+msgid "Delete %s"
+msgstr "Verwijder %s "
+
+#, php-format
+msgid "%s count"
+msgstr "%s telling"
+
+#, php-format
+msgid "Edit this %s"
+msgstr "Bewerk dit %s"
+
+#, php-format
+msgid "Delete this %s"
+msgstr "Verwijder dit %s"
+
+#, php-format
+msgid "Assign %s"
+msgstr "Toewijzen %s"
+
+#, php-format
+msgid "Remove %s"
+msgstr "Verwijder %s"
+
+#, php-format
+msgctxt "Filter"
+msgid "All %s"
+msgstr "Alles %s "
+
+msgid "Time"
+msgstr "Tijd"
+
+msgid "Enable day of week"
+msgstr "Dag van de week aanzetten"
+
+msgid "Enable end time"
+msgstr "Eind tijd aanzetten"
+
+msgid "Time picker"
+msgstr "Tijd picker"
+
+msgid "Set current time selected by default"
+msgstr "Stel huidige tijd in als standaard geselecteerd"
+
+msgid "Invalid time."
+msgstr "Ongeldige tijd"
+
+msgid "Please pick a time."
+msgstr "Selecteer een tijd A.U.B."
+
+msgid "Please select a day of week."
+msgstr "Selecteer een dag van de week A.U.B."
+
+msgid "Please select an end time."
+msgstr "Selecteer een eind tijd A.U.B."
+
+msgid "Monday"
+msgstr "Maandag"
+
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+msgid "Wednesday"
+msgstr "Woensdag"
+
+msgid "Thursday"
+msgstr "Donderdag"
+
+msgid "Friday"
+msgstr "Vrijdag"
+
+msgid "Saturday"
+msgstr "Zaterdag"
+
+msgid "Sunday"
+msgstr "Zondag"
+
+msgid "Opening Hours"
+msgstr "Openings Tijden"
+
+msgctxt "opening hours"
+msgid "Closed"
+msgstr "Gesloten"
+
+msgid "Show days without any entry as closed"
+msgstr "Toon dagen zonder vermelding als gesloten"
+
+msgid "Label for closed days"
+msgstr "Label voor gesloten dagen"
+
+msgid "Date added"
+msgstr "Datum toegevoegd"
+
+msgid "Date flagged"
+msgstr "Datum gemarkeerd"
+
+msgid "IP address"
+msgstr "IP adres"
+
+msgid "Yes / No"
+msgstr "Ja / Nee"
+
+msgid "Rating"
+msgstr "Rating"
+
+msgid "Recent"
+msgstr "Recent"
+
+msgctxt "sort"
+msgid "Flags"
+msgstr "Markering"
+
+msgid "Are you sure you want to ignore all the flags submitted?"
+msgstr "Weet u zeker dat u alles wat gemarkeerd is wilt negeren?"
+
+msgid "Ignore Flags"
+msgstr "Negeer Markeringen"
+
+msgid "Redo Submit"
+msgstr "Opnieuw Indienen"
+
+msgid "Vote"
+msgstr "Stem"
+
+msgid "Helpful"
+msgstr "Nuttig"
+
+msgid "Favorite"
+msgstr "Favoriet"
+
+msgid "Flag"
+msgstr "Markeer"
+
+msgid "You do not have the permission to perform this action."
+msgstr "U heeft geen toestemming om deze actie uit te voeren."
+
+msgid "Other reason (Enter comment below)"
+msgstr "Andere reden ( vul uw reden hieronder in)"
+
+#, php-format
+msgid "%s & Up"
+msgstr "%s & omhoog"
+
+#, php-format
+msgid "%d stars"
+msgstr "%d Sterren"
+
+#, php-format
+msgid "%d stars & up"
+msgstr "%d Sterren & omhoog"
+
+msgid "Mark/unmark this post as favorite (click again to undo)"
+msgstr ""
+"Markeringen aan / uit om dit bericht als  favoriet aan te merken ( klik "
+"nogmaals om ongedaan te maken )"
+
+msgid "Mark/unmark this post as favorite"
+msgstr "Markeringen aan / uit deze post als favoriet"
+
+msgid "System Message"
+msgstr "Systeem Bericht"
+
+#, php-format
+msgid "%.2f out of 5 stars"
+msgstr "%2f van de 5 sterren"
+
+msgid "This post is useful (click again to undo)"
+msgstr "Dit bericht is nuttig ( klik nogmaals om ongedaan te maken )"
+
+msgid "Mark this post as useful"
+msgstr "Markeer dit bericht als nuttig"
+
+msgid "This post is not useful (click again to undo)"
+msgstr "Dit bericht is niet nuttig ( klik nogmaals om ongedaan te maken)"
+
+msgid "Unmark this post as useful"
+msgstr "Markering uitzetten bij dit bericht is nuttig"
+
+msgid "Rating Details"
+msgstr "Waardering Details"
+
+#, php-format
+msgid "The input value must be between %d and %d."
+msgstr "De invoerwaarde moet tussen % d en % d zijn"
+
+msgid "Invalid value."
+msgstr "Ongeldige waarde"
+
+#, php-format
+msgid "Vote for \"%s\""
+msgstr "Stem voor \"%s\" "
+
+#, php-format
+msgid "Vote up %s"
+msgstr "Stem omhoog %s"
+
+#, php-format
+msgid "Vote up own %s"
+msgstr "Eigen stem %s"
+
+#, php-format
+msgid "Vote down %s"
+msgstr "Stem omlaag %s"
+
+#, php-format
+msgid "Vote %s helpful"
+msgstr "Stem %s is nuttig"
+
+#, php-format
+msgid "Vote own %s helpful"
+msgstr "Eigen stem %s is nuttig"
+
+#, php-format
+msgid "Rate %s"
+msgstr "Waardering %s"
+
+#, php-format
+msgid "Rate own %s"
+msgstr "Eigen Waardering %s"
+
+msgid "Favorites"
+msgstr "Favorieten"
+
+#, php-format
+msgid "Flag %s"
+msgstr "Markeer %s"
+
+msgid "Reason for flagging"
+msgstr "Reden voor markering"
+
+#, php-format
+msgid "You have already flagged this %s. Press the button to redo flagging."
+msgstr ""
+"U heeft deze %s al gemarkeerd, druk op de knop om de markering ongedaan te "
+"maken."
+
+msgid "Redo Flagging"
+msgstr "Opnieuw Markeren"
+
+msgid "Thanks, we will take a look at it."
+msgstr "Dank u, We zullen er naar kijken."
+
+#, php-format
+msgid "Vote for this %s"
+msgstr "Stem hiervoor %s"
+
+#, php-format
+msgid "Unvote for this %s"
+msgstr "Hier niet voor stemmen %s"
+
+#, php-format
+msgid "Bookmark this %s"
+msgstr "Maak hier een bladwijzer voor %s"
+
+#, php-format
+msgid "Unbookmark this %s"
+msgstr "Verwijder de bladwijzer hiervoor %s"
+
+msgid "Bookmark"
+msgstr "Bladwijzer"
+
+#, php-format
+msgid "Flag this %s"
+msgstr "Markeer dit %s"
+
+msgid "Flagged"
+msgstr "Gemarkeerd"
+
+#, php-format
+msgid "This post has %d flags"
+msgstr "Dit bericht heeft %d markeringen"
+
+#, php-format
+msgid "Clear %s"
+msgstr "Opruimen %s"
+
+msgid "Flagged/Unflagged"
+msgstr "Gemarkeerd/ Ongemarkeerd"
+
+msgid "Unflagged"
+msgstr "Ongemarkeerd"
+
+msgid "Ratings"
+msgstr "Waarderingen"
+
+#, php-format
+msgid "%d vote (score: %d)"
+msgid_plural "%d votes (score: %d)"
+msgstr[0] "%d Stem (score: %d)"
+msgstr[1] "%d Stemmen (score: %d)"
+
+#, php-format
+msgid "%d favorite"
+msgid_plural "%d favorites"
+msgstr[0] "%d favoriet"
+msgstr[1] "%d favorieten"
+
+#, php-format
+msgid ""
+"Comment posted by %s on %s has been marked as spam (spam score: %d, flag "
+"count: %d)"
+msgstr ""
+"Reactie geplaatst door %s op %s  is gemarkeerd als spam (spam score: %d, flag "
+"count: %d)"
+
+msgid "Bookmarks"
+msgstr "Bladwijzer"
+
+msgid "CAPTCHA image size"
+msgstr "CAPTCHA afbeelding grootte"
+
+msgid "You did not enter the correct characters."
+msgstr "U heeft niet de juiste karakters ingevoerd."
+
+msgid "The Really Simple CAPTCHA plugin must be installed and active."
+msgstr ""
+"De Really Simple CAPTCHA plugin moet worden geïnstalleerd en actief zijn."
+
+msgid "Use an existing page"
+msgstr "Gebruik een bestaande pagina"
+
+msgid "Create a new page"
+msgstr "Creëer een nieuwe pagina"
+
+msgid "Title:"
+msgstr "Titel:"
+
+msgid "Slug:"
+msgstr "Slug:"
+
+msgid "No page (use the parent page)"
+msgstr "Geen Pagina ( Gebruik de hoofd pagina)"
+
+msgid "Page Settings"
+msgstr "Pagina Instellingen"
+
+msgid "Slug Settings"
+msgstr "Slug Instellingen"
+
+msgid "WordPress editor"
+msgstr "Wordpress Bewerker"
+
+msgid "Disable Visual mode"
+msgstr "Schakel zichtbare modus uit"
+
+msgid "Disable toolbar in Text mode"
+msgstr "Schakel toolbar uit in tekst modus"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Cancel"
+msgstr "Anulleren"
+
+msgid "Process shortcode(s)"
+msgstr "Proces shortcode(s)"
+
+#, php-format
+msgid "User roles allowed to use shortcodes: %s"
+msgstr "Gebruikers rollen hebben toestemming om shortcodes te gebruiken %s"
+
+msgctxt "tab"
+msgid "Pages"
+msgstr "Paginas"
+
+msgid "CodeCanyon.net Purchase Code Settings"
+msgstr "CodeCanyon.net Aankoop Code Instellingen"
+
+msgid ""
+"Enter the item purchase code you received from CodeCanyon.net to enable "
+"automatic updates for each plugin. Make sure that you enter a valid purchase "
+"code here otherwise it will just slow your site down."
+msgstr ""
+"Vul de aankoop code van het product in welke u van CodeCanyon.net heeft "
+"gekocht, om automatische updates voor iedere plugin te verkrijgen. Wees er "
+"zeker van dat u een geldige aankoop code gebruikt anders zal het uw site traag "
+"maken."
+
+msgid "User roles allowed to use shortcodes in content"
+msgstr ""
+"Gebruikers rollen hebben toestemming om shortcodes te gebruiken in de inhoud"
+
+msgid "Token has expired. Please reload the page and try again."
+msgstr "Token is verlopen. Herlaadt de pagina en probeer het opnieuw."
+
+msgid "Transition mode"
+msgstr "Overgang modus"
+
+msgctxt "transition mode"
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+msgctxt "transition mode"
+msgid "Vertical"
+msgstr "Verticaal"
+
+msgctxt "transition mode"
+msgid "Fade"
+msgstr "Vervagen"
+
+msgid "Automatically cycle slides"
+msgstr "Automatische slides cyclus"
+
+msgid "The amount of time to delay between automatically cycling slides."
+msgstr "De tijd tussen het uitstellen van de automatische slides cyclus"
+
+msgid "Show captions"
+msgstr "Toon bijschriften"
+
+msgid "Show prev/next controls"
+msgstr "Toon vorige/volgende bediening"
+
+msgid "Show indicator circles"
+msgstr "toon indicator cirkels"
+
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+msgid "Albania"
+msgstr "Albania"
+
+msgid "Algeria"
+msgstr "Algaria"
+
+msgid "American Samoa"
+msgstr "American Somoa"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Anguilla"
+msgstr "Anguilla"
+
+msgid "Antarctica"
+msgstr "Antarctica"
+
+msgid "Antigua and Barbuda"
+msgstr "Antigua and Barbuda"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Aruba"
+msgstr "Aruba"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgid "Bahrain"
+msgstr "Bahrain"
+
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belgium"
+msgstr "Belgium"
+
+msgid "Belize"
+msgstr "Belize"
+
+msgid "Benin"
+msgstr "Benin"
+
+msgid "Bermuda"
+msgstr "Bermuda"
+
+msgid "Bhutan"
+msgstr "Bhutan"
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia and Herzegovina"
+
+msgid "Botswana"
+msgstr "Botswana"
+
+msgid "Bouvet Island"
+msgstr "Bouvet Island"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "British Antarctic Territory"
+msgstr "British Antarctic Territory"
+
+msgid "British Indian Ocean Territory"
+msgstr "British Indian Ocean Territory"
+
+msgid "British Virgin Islands"
+msgstr "British Virgin Islands"
+
+msgid "Brunei"
+msgstr "Brunei"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Cambodia"
+msgstr "Cambodia"
+
+msgid "Cameroon"
+msgstr "Cameroon"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Canton and Enderbury Islands"
+msgstr "Canton and Enderbury Islands"
+
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+msgid "Cayman Islands"
+msgstr "Cayman Islands"
+
+msgid "Central African Republic"
+msgstr "Central African Republic"
+
+msgid "Chad"
+msgstr "Chad"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "China"
+msgstr "China"
+
+msgid "Christmas Island"
+msgstr "Christmas Island"
+
+msgid "Cocos [Keeling] Islands"
+msgstr "Cocos [Keeling] Islands"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "Comoros"
+msgstr "Comoros"
+
+msgid "Congo - Brazzaville"
+msgstr "Congo - Brazzaville"
+
+msgid "Congo - Kinshasa"
+msgstr "Congo - Kinshasa"
+
+msgid "Cook Islands"
+msgstr "Cook Islands"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Croatia"
+msgstr "Croatia"
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Cyprus"
+msgstr "Cyprus"
+
+msgid "Czech Republic"
+msgstr "Czech Republic"
+
+msgid "Côte d’Ivoire"
+msgstr "Côte d’Ivoire"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "Djibouti"
+msgstr "Djibouti"
+
+msgid "Dominica"
+msgstr "Dominica"
+
+msgid "Dominican Republic"
+msgstr "Dominican Republic"
+
+msgid "Dronning Maud Land"
+msgstr "Dronning Maud Land"
+
+msgid "East Germany"
+msgstr "East Germany"
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Egypt"
+msgstr "Egypt"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Equatorial Guinea"
+msgstr "Equatorial Guinea"
+
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgid "Estonia"
+msgstr "Estonia"
+
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+msgid "Falkland Islands"
+msgstr "Falkland Islands"
+
+msgid "Faroe Islands"
+msgstr "Faroe Islands"
+
+msgid "Fiji"
+msgstr "Fiji"
+
+msgid "Finland"
+msgstr "Finland"
+
+msgid "France"
+msgstr "France"
+
+msgid "French Guiana"
+msgstr "French Guiana"
+
+msgid "French Polynesia"
+msgstr "French Polynesia"
+
+msgid "French Southern Territories"
+msgstr "French Southern Territories"
+
+msgid "French Southern and Antarctic Territories"
+msgstr "French Southern and Antarctic Territories"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "Georgia"
+msgstr "Georgia"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+msgid "Greece"
+msgstr "Greece"
+
+msgid "Greenland"
+msgstr "Greenland"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+msgid "Guam"
+msgstr "Guam"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guernsey"
+msgstr "Guernsey"
+
+msgid "Guinea"
+msgstr "Guinea"
+
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "Haiti"
+msgstr "Haiti"
+
+msgid "Heard Island and McDonald Islands"
+msgstr "Heard Island and McDonald Islands"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong SAR China"
+msgstr "Hong Kong SAR China"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "India"
+msgstr "India"
+
+msgid "Indonesia"
+msgstr "Indonesia"
+
+msgid "Iran"
+msgstr "Iran"
+
+msgid "Iraq"
+msgstr "Iraq"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Isle of Man"
+msgstr "Isle of Man"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Jersey"
+msgstr "Jersey"
+
+msgid "Johnston Island"
+msgstr "Johnston Island"
+
+msgid "Jordan"
+msgstr "Jordan"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Kenya"
+msgstr "Kenya"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "Kuwait"
+msgstr "Kuwait"
+
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+msgid "Laos"
+msgstr "Laos"
+
+msgid "Latvia"
+msgstr "Latvia"
+
+msgid "Lebanon"
+msgstr "Lebanon"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Liberia"
+msgstr "Liberia"
+
+msgid "Libya"
+msgstr "Libya"
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Lithuania"
+msgstr "Lithuania"
+
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+msgid "Macau SAR China"
+msgstr "Macau SAR China"
+
+msgid "Macedonia"
+msgstr "Macedonia"
+
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgid "Malawi"
+msgstr "Malawi"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Maldives"
+msgstr "Maldives"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Marshall Islands"
+msgstr "Marshall Islands"
+
+msgid "Martinique"
+msgstr "Martinique"
+
+msgid "Mauritania"
+msgstr "Mauritania"
+
+msgid "Mauritius"
+msgstr "Mauritius"
+
+msgid "Mayotte"
+msgstr "Mayotte"
+
+msgid "Metropolitan France"
+msgstr "Metropolitan France"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Micronesia"
+msgstr "Micronesia"
+
+msgid "Midway Islands"
+msgstr "Midway Islands"
+
+msgid "Moldova"
+msgstr "Moldova"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Mongolia"
+msgstr "Mongolia"
+
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgid "Montserrat"
+msgstr "Montserrat"
+
+msgid "Morocco"
+msgstr "Morocco"
+
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgid "Myanmar [Burma]"
+msgstr "Myanmar [Burma]"
+
+msgid "Namibia"
+msgstr "Namibia"
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Nepal"
+msgstr "Nepal"
+
+msgid "Netherlands"
+msgstr "Netherlands"
+
+msgid "Netherlands Antilles"
+msgstr "Netherlands Antilles"
+
+msgid "Neutral Zone"
+msgstr "Neutral Zone"
+
+msgid "New Caledonia"
+msgstr "New Caledonia"
+
+msgid "New Zealand"
+msgstr "New Zealand"
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "Niger"
+msgstr "Niger"
+
+msgid "Nigeria"
+msgstr "Nigeria"
+
+msgid "Niue"
+msgstr "Niue"
+
+msgid "Norfolk Island"
+msgstr "Norfolk Island"
+
+msgid "North Korea"
+msgstr "North Korea"
+
+msgid "North Vietnam"
+msgstr "North Vietnam"
+
+msgid "Northern Mariana Islands"
+msgstr "Northern Mariana Islands"
+
+msgid "Norway"
+msgstr "Norway"
+
+msgid "Oman"
+msgstr "Oman"
+
+msgid "Pacific Islands Trust Territory"
+msgstr "Pacific Islands Trust Territory"
+
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgid "Palau"
+msgstr "Palau"
+
+msgid "Palestinian Territories"
+msgstr "Palestinian Territories"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Panama Canal Zone"
+msgstr "Panama Canal Zone"
+
+msgid "Papua New Guinea"
+msgstr "Papua New Guinea"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "People's Democratic Republic of Yemen"
+msgstr "People's Democratic Republic of Yemen"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "Philippines"
+msgstr "Philippines"
+
+msgid "Pitcairn Islands"
+msgstr "Pitcairn Islands"
+
+msgid "Poland"
+msgstr "Poland"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Qatar"
+msgstr "Qatar"
+
+msgid "Romania"
+msgstr "Romania"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Rwanda"
+msgstr "Rwanda"
+
+msgid "Réunion"
+msgstr "Réunion"
+
+msgid "Saint Barthélemy"
+msgstr "Saint Barthélemy"
+
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts and Nevis"
+
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+msgid "Saint Martin"
+msgstr "Saint Martin"
+
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre and Miquelon"
+
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent and the Grenadines"
+
+msgid "Samoa"
+msgstr "Samoa"
+
+msgid "San Marino"
+msgstr "San Marino"
+
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+msgid "Senegal"
+msgstr "Senegal"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Serbia and Montenegro"
+msgstr "Serbia and Montenegro"
+
+msgid "Seychelles"
+msgstr "Seychelles"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgid "Singapore"
+msgstr "Singapore"
+
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgid "Slovenia"
+msgstr "Slovenia"
+
+msgid "Solomon Islands"
+msgstr "Solomon Islands"
+
+msgid "Somalia"
+msgstr "Somalia"
+
+msgid "South Africa"
+msgstr "South Africa"
+
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "South Georgia and the South Sandwich Islands"
+
+msgid "South Korea"
+msgstr "South Korea"
+
+msgid "Spain"
+msgstr "Spain"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "Sudan"
+msgstr "Sudan"
+
+msgid "Suriname"
+msgstr "Suriname"
+
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard and Jan Mayen"
+
+msgid "Swaziland"
+msgstr "Swaziland"
+
+msgid "Sweden"
+msgstr "Sweden"
+
+msgid "Switzerland"
+msgstr "Switzerland"
+
+msgid "Syria"
+msgstr "Syria"
+
+msgid "São Tomé and Príncipe"
+msgstr "São Tomé and Príncipe"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+msgid "Tanzania"
+msgstr "Tanzania"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Tokelau"
+msgstr "Tokelau"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Trinidad and Tobago"
+msgstr "Trinidad and Tobago"
+
+msgid "Tunisia"
+msgstr "Tunisia"
+
+msgid "Turkey"
+msgstr "Turkey"
+
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+msgid "Turks and Caicos Islands"
+msgstr "Turks and Caicos Islands"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "U.S. Minor Outlying Islands"
+msgstr "U.S. Minor Outlying Islands"
+
+msgid "U.S. Miscellaneous Pacific Islands"
+msgstr "U.S. Miscellaneous Pacific Islands"
+
+msgid "U.S. Virgin Islands"
+msgstr "U.S. Virgin Islands"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Union of Soviet Socialist Republics"
+msgstr "Union of Soviet Socialist Republics"
+
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+msgid "United States"
+msgstr "United States"
+
+msgid "Unknown or Invalid Region"
+msgstr "Unknown or Invalid Region"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Vatican City"
+msgstr "Vatican City"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "Wake Island"
+msgstr "Wake Island"
+
+msgid "Wallis and Futuna"
+msgstr "Wallis and Futuna"
+
+msgid "Western Sahara"
+msgstr "Western Sahara"
+
+msgid "Yemen"
+msgstr "Yemen"
+
+msgid "Zambia"
+msgstr "Zambia"
+
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgid "Åland Islands"
+msgstr "Åland Islands"
+
+msgid "F j, Y"
+msgstr "F j, Y"
+
+msgid "F j, Y g:i a"
+msgstr "F j, Y g:i a"
+
+msgid "Access denied."
+msgstr "Toegang geweigerd"
+
+#, php-format
+msgid "An error occurred while importing content. Error: %s"
+msgstr "Er is een fout opgetreden tijdens het importeren van de inhoud. Fout: %s"
+
+msgid "Could not import content."
+msgstr "Kan de inhoud niet importeren."
+
+msgid " "
+msgstr "     "
+
+msgid "g:i a"
+msgstr "g:i a"
+
+msgctxt "whitspace"
+msgid " "
+msgstr "     "
+
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr ""
+"het ge-upload bestand overschrijdt de upload_max_filesize directive in php.ini."
+
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive specified in the HTML "
+"form."
+msgstr ""
+"het ge-upload  bestand overschrijdt de MAX_FILE_SIZE directive gespecificeerd "
+"in het HTML formulier."
+
+msgid "The uploaded file was only partially uploaded."
+msgstr "het ge-upload bestand was alleen gedeeltelijk ge-upload."
+
+msgid "No file was uploaded."
+msgstr "Er is geen bestand ge-upload."
+
+msgid "Missing a temporary folder."
+msgstr "Er mist een tijdelijke map."
+
+msgid "Failed to write file to disk."
+msgstr "Het schrijven naar de disk is mislukt."
+
+msgid "File upload stopped by PHP extension."
+msgstr "Bestand upload is gestopt door PHP extension."
+
+msgid "No valid file was uploaded."
+msgstr "Er is geen geldig bestand ge-upload."
+
+msgid "Only image files are allowed."
+msgstr "Alleen afbeelding bestanden zijn toegestaan."
+
+#, php-format
+msgid "Could not get unique file name for file %s."
+msgstr "Kon unieke bestandsnaam voor het bestand %s niet krijgen ."
+
+#, php-format
+msgid "File %s (%s) already exists."
+msgstr "File %s (%s) bestaat al."
+
+msgid "Failed saving file to the upload directory."
+msgstr "Bestand opslaan naar upload map is mislukt."
+
+msgid "Allowed file extensions may not be empty."
+msgstr "Toegestane bestand extensies mogen niet leeg zijn."
+
+msgid "Invalid file extension."
+msgstr "Ongeldige bestand extensie."
+
+#, php-format
+msgid "File with file extension %s is not allowed."
+msgstr "Bestand met bestands extensie %s is niet toegestaan."
+
+msgid "No matching mime types for the file were found."
+msgstr "Geen overeenkomstige mime types voor dit bestand zijn gevonden."
+
+#, php-format
+msgid "Image file with file extension %s is not allowed."
+msgstr "Afbeelding bestand met bestand extensie %s is niet toegestaan."
+
+#, php-format
+msgid ""
+"File type associated with file extension %s (%s) was not found or is not "
+"allowed."
+msgstr ""
+"bestandstype geassocieerd met bestandsextensie %s (%s) is niet gevonden of is "
+"niet toegestaan."
+
+#, php-format
+msgid "File size may not exceed %s KB."
+msgstr "Bestand grootte mag %s KB niet overschrijden."
+
+msgid "Failed detecting image dimensions."
+msgstr "detectie van afbeelding dimensie is mislukt."
+
+#, php-format
+msgid "Image size must not be larger than W%d x H%d pixels."
+msgstr "Afbeelding grootte mag niet groter zijn dan W%d x H%d pixels."
+
+#, php-format
+msgid "Image size must be larger than W%d x H%d pixels."
+msgstr "Afbeelding grootte moet groter zijn dan W%d x H%d pixels."
+
+#, php-format
+msgid "Directory %s does not exist."
+msgstr "Map %s bestaat niet."
+
+#, php-format
+msgid "Directory %s is not writeable by the server."
+msgstr "Map %s is niet schrijfbaar door de server."
+
+msgid "If you are not redirected automatically, please click the button below:"
+msgstr ""
+"Als u niet automatisch wordt doorgestuurd , klik dan op de onderstaande knop:"
+
+msgid "Continue"
+msgstr "Ga door"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "E-mail Address"
+msgstr "E-mail adres"
+
+msgid "The username is already taken."
+msgstr "Gebruikersnaam is al in gebruik."
+
+msgid "The e-mail address is already taken."
+msgstr "Het E-mail adres is al in gebruik."
+
+#, php-format
+msgid "%s ago"
+msgstr "%s geleden"
+
+msgid ""
+"You must <a href=\"options-permalink.php\">change your permalink structure</a> "
+"for Sabai plugins to work properly."
+msgstr ""
+"U moet <a href=\"options-permalink.php\">Verander uw permalink structuur</a>  "
+"veranderen om Sabai plugins correct te laten werken."
+
+#, php-format
+msgid ""
+"There are %1$d upgradable Sabai add-on(s). Please go to the <a href=\"%2$s"
+"\">add-on listing section</a> and upgrade all add-ons."
+msgstr ""
+"Er zijn %1$d sabai Add-on(s) te upgraden. Ga alstublieft naar <a href=\"%2$s"
+"\">add-on listing section</a> en upgrade alle Add-ons."
+
+msgid "View profile"
+msgstr "Bekijk Profiel"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Your browser sent a request that this server could not understand."
+msgstr "Uw browser heeft een verzoek ingediend die deze server niet begrijpt."
+
+#, php-format
+msgid ""
+"You must <a href=\"%s\" class=\"sabai-login popup-login\">login</a> to perform "
+"the requested action."
+msgstr ""
+"U moet <a href=\"%s\" class=\"sabai-login popup-login\">Inloggen</a>om de "
+"gevraagde actie uit te voeren."
+
+msgid "Your request may not be processed."
+msgstr "Uw verzoek kan niet worden verwerkt."
+
+msgid "The requested page was not found."
+msgstr "De opgevraagde pagina was niet gevonden."
+
+msgid "The requested method is not allowed."
+msgstr "De opgevraagde methode is niet toegestaan."
+
+msgid "The requested page is not acceptable by the browser."
+msgstr "De opgevraagde pagina is niet geaccepteerd door de browser."
+
+msgid "The requested method is not implemented."
+msgstr "De opgevraagde methode is niet geïmplementeerd."
+
+msgid ""
+"The server is currently unable to handle the request. Please try again later."
+msgstr ""
+"De server is op dit moment niet in staat om het verzoek af te handelen. "
+"Probeer het later opnieuw."
+
+msgid "The server encountered an error processing your request."
+msgstr ""
+"Er is een fout onstaan bij de server tijdens de verwerking van uw verzoek."

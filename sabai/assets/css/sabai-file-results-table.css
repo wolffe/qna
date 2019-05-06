@@ -1,0 +1,14 @@
+.sabai-file-results table {table-layout:fixed;}
+.sabai-file-results td {word-wrap: break-word;}
+.sabai-file-results td,
+.sabai-file-results th {vertical-align: middle !important;}
+.sabai-file-results img {margin-right:5px !important;}
+.sabai-file-results {
+    min-height:250px;
+}
+.sabai-file-results .sabai-ajax-loader {
+    position: inherit;
+    background-color: transparent !important;
+    margin-top: 10px;
+}
+.sabai-file-results-footer {height:50px;}

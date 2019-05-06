@@ -1,0 +1,2 @@
+<?php
+interface Sabai_Addon_Entity_IPersonalDataAuthorFieldType extends Sabai_Addon_Field_IPersonalDataIdentifier{}
