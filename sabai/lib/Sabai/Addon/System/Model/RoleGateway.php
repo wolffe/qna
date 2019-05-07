@@ -1,4 +1,0 @@
-<?php
-class Sabai_Addon_System_Model_RoleGateway extends Sabai_Addon_System_Model_Base_RoleGateway
-{
-}

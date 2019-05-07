@@ -1,8 +1,0 @@
-<?php
-class Sabai_Addon_Entity_Model_FieldConfig extends Sabai_Addon_Entity_Model_Base_FieldConfig
-{
-}
-
-class Sabai_Addon_Entity_Model_FieldConfigRepository extends Sabai_Addon_Entity_Model_Base_FieldConfigRepository
-{
-}

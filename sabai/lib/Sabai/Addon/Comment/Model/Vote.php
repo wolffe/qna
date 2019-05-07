@@ -1,8 +1,0 @@
-<?php
-class Sabai_Addon_Comment_Model_Vote extends Sabai_Addon_Comment_Model_Base_Vote
-{
-}
-
-class Sabai_Addon_Comment_Model_VoteRepository extends Sabai_Addon_Comment_Model_Base_VoteRepository
-{
-}

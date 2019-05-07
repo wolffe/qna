@@ -1,4 +1,0 @@
-<?php
-class Sabai_Addon_Entity_Model_FieldGateway extends Sabai_Addon_Entity_Model_Base_FieldGateway
-{
-}

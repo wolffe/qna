@@ -1,4 +1,0 @@
-<?php
-class Sabai_Addon_System_Model_AddonGateway extends Sabai_Addon_System_Model_Base_AddonGateway
-{
-}

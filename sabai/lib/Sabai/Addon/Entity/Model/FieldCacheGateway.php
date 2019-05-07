@@ -1,4 +1,0 @@
-<?php
-class Sabai_Addon_Entity_Model_FieldCacheGateway extends Sabai_Addon_Entity_Model_Base_FieldCacheGateway
-{
-}

@@ -1,2 +1,0 @@
-<?php
-class Sabai_Addon_Taxonomy_Controller_Admin_Autocomplete extends Sabai_Addon_Taxonomy_Controller_Autocomplete {}

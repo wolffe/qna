@@ -1,8 +1,0 @@
-<?php
-class Sabai_Addon_System_Model_Permission extends Sabai_Addon_System_Model_Base_Permission
-{
-}
-
-class Sabai_Addon_System_Model_PermissionRepository extends Sabai_Addon_System_Model_Base_PermissionRepository
-{
-}
